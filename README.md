@@ -112,7 +112,6 @@ cancha-deportiva/
 
 ## Autores
 
-- Jeimi Xtreme Dos
 - Arévalo Zapata, Aline Fiama
 - Garcia Arias, Gisella Lorenza
 - Quispe Mamani, Freddy Máximo
